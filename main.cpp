@@ -19,6 +19,7 @@ template <class T> T stepin(T a, int b) {
 }
 
 int main() {
+  int aaaa;
   cout << "\x1b[32m"; //зелений
   cout << "Написати рекурсивну функцію знаходження ступеня числа\n\n";
   cout << "\x1b[37m"; //білий
